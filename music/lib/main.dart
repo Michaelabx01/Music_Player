@@ -101,10 +101,21 @@ class _HomePageState extends State<HomePage> {
     "zamona-net-bts-black-swan.mp3",
     "zamona-net-bts-yet-to-come.mp3",
     "zamona-net-bts-standing-next-to-you.mp3",
-    "With-You-Jimin-X-Ha-Sung-Woon.mp3"
+    "With-You-Jimin-X-Ha-Sung-Woon.mp3",
+    "Intro Serendipity.mp3",
+    "DNA.mp3",
+    "Best-Of-Me.mp3",
+    "Dimple.mp3",
+    "Pied-Piper.mp3",
+    "Skit-Billboard-Music-Awards-Speech.mp3",
+    "MIC-Drop.mp3",
+    "Go.mp3",
+    "Outro-Her.mp3",
+
+
   ];
 
-  List<String> songNames = ["Black Swan", "Yet to Come", "Standing Next to You", "With You"];
+  List<String> songNames = ["Black Swan", "Yet to Come", "Standing Next to You", "With You", "Intro Serendipity", "DNA", "Best Of Me", "Dimple", "Pied Piper", "Skit Billboard Music Awards Speech", "MIC Drop", "Go", "Outro Her"];
 
   String imgCoverUrl =
       "https://i.pinimg.com/736x/a7/a9/cb/a7a9cbcefc58f5b677d8c480cf4ddc5d.jpg";

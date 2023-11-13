@@ -17,23 +17,35 @@ class _SongListScreenState extends State<SongListScreen> {
     "zamona-net-bts-black-swan.mp3",
     "zamona-net-bts-yet-to-come.mp3",
     "zamona-net-bts-standing-next-to-you.mp3",
-    "With-You-Jimin-X-Ha-Sung-Woon.mp3"
+    "With-You-Jimin-X-Ha-Sung-Woon.mp3",
+    "╣µ┼║╝Ê│Ô┤▄-01-Intro_ Serendipity.mp3",
+    "╣µ┼║╝Ê│Ô┤▄-02-DNA.mp3",
+    "╣µ┼║╝Ê│Ô┤▄-03-Best-Of-Me.mp3",
+    "╣µ┼║╝Ê│Ô┤▄-04-║©┴Â░│.mp3",
+    "╣µ┼║╝Ê│Ô┤▄-05-Pied Piper.mp3",
+    "╣µ┼║╝Ê│Ô┤▄-06-Skit  Billboard Music Awards Speech.mp3",
+    "╣µ┼║╝Ê│Ô┤▄-07-MIC Drop.mp3",
+    "╣µ┼║╝Ê│Ô┤▄-08-░Ý╣╬║©┤┘ Go.mp3",
+    "╣µ┼║╝Ê│Ô┤▄-09-Outro_ Her.mp3",
     // Agrega el resto de tus canciones aquí
   ];
 
-  final List<String> songNames = [
-    "Black Swan",
-    "Yet to Come",
-    "Standing Next to You",
-    "With You"
-    // Agrega el nombre de las demás canciones aquí
-  ];
+  final List<String> songNames = ["Black Swan", "Yet to Come", "Standing Next to You", "With You", "Intro Serendipity", "DNA", "Best Of Me", "Dimple", "Pied Piper", "Skit Billboard Music Awards Speech", "MIC Drop", "Go", "Outro Her"];
 
   final List<String> songImages = [
     "assets/image1.png",
     "assets/image2.png",
     "assets/image3.png",
     "assets/image4.png",
+    "assets/image5.png",
+    "assets/image6.png",
+    "assets/image7.png",
+    "assets/image8.png",
+    "assets/image9.png",
+    "assets/image10.png",
+    "assets/image11.png",
+    "assets/image12.png",
+    "assets/image13.png",
     // Agrega el resto de tus imágenes aquí
   ];
 
